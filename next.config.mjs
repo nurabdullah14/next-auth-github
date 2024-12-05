@@ -9,8 +9,8 @@ const nextConfig = {
   images: {
     unoptimized: true, // Disable default image optimization
   },
-  assetPrefix: isProd ? 'next-auth-github' : '',
-  basePath: isProd ? 'next-auth-github' : '',
+  assetPrefix: isProd ? '/next-auth-github/' : '',
+  basePath: isProd ? '/next-auth-github' : '',
   output: 'export'
 };
 
