@@ -341,7 +341,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
             <Image
               width={176}
               height={32}
-              src={"/images/logo/logo.svg"}
+              src={"next-auth-github/images/logo/logo.svg"}
               alt="Logo"
               priority
             />

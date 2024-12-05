@@ -4,7 +4,7 @@ import { Chat } from "@/app/types/chat";
 
 const chatData: Chat[] = [
   {
-    avatar: "/images/user/user-01.png",
+    avatar: "next-auth-github/images/user/user-01.png",
     name: "Devid Heilo",
     text: "How are you?",
     time: 12,
@@ -12,7 +12,7 @@ const chatData: Chat[] = [
     dot: 3,
   },
   {
-    avatar: "/images/user/user-02.png",
+    avatar: "next-auth-github/images/user/user-02.png",
     name: "Henry Fisher",
     text: "Waiting for you!",
     time: 12,
@@ -20,7 +20,7 @@ const chatData: Chat[] = [
     dot: 1,
   },
   {
-    avatar: "/images/user/user-04.png",
+    avatar: "next-auth-github/images/user/user-04.png",
     name: "Jhon Doe",
     text: "What's up?",
     time: 32,
@@ -28,7 +28,7 @@ const chatData: Chat[] = [
     dot: 3,
   },
   {
-    avatar: "/images/user/user-05.png",
+    avatar: "next-auth-github/images/user/user-05.png",
     name: "Jane Doe",
     text: "Great",
     time: 32,
@@ -36,7 +36,7 @@ const chatData: Chat[] = [
     dot: 6,
   },
   {
-    avatar: "/images/user/user-01.png",
+    avatar: "next-auth-github/images/user/user-01.png",
     name: "Jhon Doe",
     text: "How are you?",
     time: 32,
@@ -44,7 +44,7 @@ const chatData: Chat[] = [
     dot: 3,
   },
   {
-    avatar: "/images/user/user-03.png",
+    avatar: "next-auth-github/images/user/user-03.png",
     name: "Jhon Doe",
     text: "How are you?",
     time: 32,
