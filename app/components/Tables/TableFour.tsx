@@ -4,7 +4,7 @@ import DropdownDefault from "../Dropdowns/DropdownDefault";
 
 const brandData: BRAND[] = [
   {
-    logo: "next-auth-github/images/brand/brand-01.svg",
+    logo: "images/brand/brand-01.svg",
     name: "Google",
     visitors: 3.5,
     revenues: "5,768",
@@ -12,7 +12,7 @@ const brandData: BRAND[] = [
     conversion: 4.8,
   },
   {
-    logo: "next-auth-github/images/brand/brand-02.svg",
+    logo: "images/brand/brand-02.svg",
     name: "Twitter",
     visitors: 2.2,
     revenues: "4,635",
@@ -20,7 +20,7 @@ const brandData: BRAND[] = [
     conversion: 4.3,
   },
   {
-    logo: "next-auth-github/images/brand/brand-06.svg",
+    logo: "images/brand/brand-06.svg",
     name: "Youtube",
     visitors: 2.1,
     revenues: "4,290",
@@ -28,7 +28,7 @@ const brandData: BRAND[] = [
     conversion: 3.7,
   },
   {
-    logo: "next-auth-github/images/brand/brand-04.svg",
+    logo: "images/brand/brand-04.svg",
     name: "Vimeo",
     visitors: 1.5,
     revenues: "3,580",
@@ -36,7 +36,7 @@ const brandData: BRAND[] = [
     conversion: 2.5,
   },
   {
-    logo: "next-auth-github/images/brand/brand-05.svg",
+    logo: "images/brand/brand-05.svg",
     name: "Facebook",
     visitors: 3.5,
     revenues: "6,768",

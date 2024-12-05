@@ -60,7 +60,7 @@ const Header = (props: {
             <Image
               width={32}
               height={32}
-              src={"next-auth-github/images/logo/logo-icon.svg"}
+              src={"images/logo/logo-icon.svg"}
               alt="Logo"
             />
           </Link>
